@@ -36,7 +36,7 @@ Add This Repository First and Then Add The Dependency
 <br />
 <h2>Gradle Code</h2>
 <code>
-	allprojects {
+	allprojects { \n
 		repositories {
 			...
 			maven { url 'https://jitpack.io' }
