@@ -26,7 +26,6 @@ Add This Repository First
 		</repository>
 	</repositories>
 </code>
-<br />
 Then Add This Dependency
 <code><dependency>
 	    <groupId>com.github.illegalHackor</groupId>
