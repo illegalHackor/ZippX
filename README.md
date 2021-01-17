@@ -17,29 +17,32 @@ For Other IDEs you can find a way to import jar files or you can add these few l
 
 <h2>maven Code</h2>
 
-### Add This Repository First and Then Add The Dependency
-      	<repositories>
+### Add This Repository First
+      	   <repositories>
 		<repository>
 		    <id>jitpack.io</id>
 		    <url>https://jitpack.io</url>
 		</repository>
-	</repositories>
+	   </repositories>
 	
+### Add The Dependency
+            <dependency>
+	    <groupId>com.github.illegalHackor</groupId>
+	    <artifactId>ZippX</artifactId>
+	    <version>-SNAPSHOT</version>
+	    </dependency>
 
-<br />
 <h2>Gradle Code</h2>
-<code>
-	allprojects { \n
+### Add the JitPack repository to your build file 
+           
+	  allprojects {
 		repositories {
 			...
 			maven { url 'https://jitpack.io' }
 		}
 	}
-</code>
-
-<code>
-	dependencies {
+	
+### Add the dependency
+            dependencies {
 	        implementation 'com.github.illegalHackor:ZippX:-SNAPSHOT'
 	}
-</code>
-	 
