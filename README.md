@@ -32,5 +32,6 @@ Add This Repository First and Then Add The Dependency
 	    <groupId>com.github.illegalHackor</groupId>
 	    <artifactId>ZippX</artifactId>
 	    <version>-SNAPSHOT</version>
-	</dependency></code>
+	</dependency>
+	</code>
 <br />
