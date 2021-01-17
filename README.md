@@ -28,10 +28,8 @@ Add This Repository First
 </code>
 <br />
 Then Add This Dependency
-<code>
-	<dependency>
+<code><dependency>
 	    <groupId>com.github.illegalHackor</groupId>
 	    <artifactId>ZippX</artifactId>
 	    <version>-SNAPSHOT</version>
-	</dependency>
-</code>
+	</dependency></code>
