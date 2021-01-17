@@ -24,11 +24,10 @@ Add This Repository First
 		    <id>jitpack.io</id>
 		    <url>https://jitpack.io</url>
 		</repository>
-	</repositories>
-</code>
+	</repositories></code>
 Then Add This Dependency
-<code><dependency>
+<code><p><dependency>
 	    <groupId>com.github.illegalHackor</groupId>
 	    <artifactId>ZippX</artifactId>
 	    <version>-SNAPSHOT</version>
-	</dependency></code>
+	</dependency></p></code>
