@@ -56,3 +56,7 @@ For Other IDEs you can find a way to import jar files or you can add these few l
  
 Now Using the Obejct of The Class you can easily use its functions.
 
+### Here's Its Funtions and Details
+    ......................................................................
+    |       Functions    |   Return Type   |           Details           |
+    ......................................................................
