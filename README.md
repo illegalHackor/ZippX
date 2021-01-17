@@ -16,23 +16,16 @@ Its very easy to Use. Just Follow The Steps
 For Other IDEs you can find a way to import jar files or you can add these few line in your Maven, Gradle Files
 
 <h2>maven Code</h2>
-Add This Repository First and Then Add The Dependency
-<br />
-<code>
 
-	<repositories>
+### Add This Repository First and Then Add The Dependency
+      	<repositories>
 		<repository>
 		    <id>jitpack.io</id>
 		    <url>https://jitpack.io</url>
 		</repository>
 	</repositories>
 	
-	<dependency>
-	     <groupId>com.github.illegalHackor</groupId>
-	     <artifactId>ZippX</artifactId>
-	     <version>-SNAPSHOT</version>
-	 </dependency>
-</code>
+
 <br />
 <h2>Gradle Code</h2>
 <code>
