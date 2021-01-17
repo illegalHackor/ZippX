@@ -77,13 +77,28 @@ This exception is thrown when any value from the raw url is not found
      String []urls=new String[//size here];
      
 ### getDirectDownloadLink(url) Usage
-    directLink=zippX.getDirectDownloadLink(url);
-    String [] links=zippX.getDirectDownloadLink(urls);
+    try{
+       directLink=zippX.getDirectDownloadLink(url);
+       String [] links=zippX.getDirectDownloadLink(urls);
+    }catch(ValueNotFoundException e){
+       System.out.println(e.getMessage());
+    }
+    
     
 ### getSizeInKilobyte(url) Usage
-    size =zippX.getSizeInKilobyte(url);
-    int []sizes=zippX.getSizeInKilobyte(urls);
+    try{
+       size =zippX.getSizeInKilobyte(url);
+       int []sizes=zippX.getSizeInKilobyte(urls);
+    }catch(ValueNotFoundException e){
+        System.out.println(e.getMessage());
+    } 
+    
     
 ### getTitle(url) Usage
-    title=zippX.getTitle(url);
-    String [] links=zippX.getTitle(urls);
+    try{
+       title=zippX.getTitle(url);
+       String [] links=zippX.getTitle(urls);
+    }catch(ValueNotFoundException e){
+       System.out.println(e.getMessage());
+    }
+    
