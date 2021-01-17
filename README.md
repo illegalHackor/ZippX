@@ -27,12 +27,11 @@ Add This Repository First and Then Add The Dependency
 		</repository>
 	</repositories>
 	
-</code>
-<br />
-<code>
-	 <dependency>
+	<dependency>
 	     <groupId>com.github.illegalHackor</groupId>
 	     <artifactId>ZippX</artifactId>
 	     <version>-SNAPSHOT</version>
 	 </dependency>
 </code>
+<br />
+	 
