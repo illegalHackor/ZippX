@@ -17,6 +17,7 @@ For Other IDEs you can find a way to import jar files or you can add these few l
 
 <h2>maven Code</h2>
 Add This Repository First
+<br />
 <code>
 
 	<repositories>
@@ -24,10 +25,14 @@ Add This Repository First
 		    <id>jitpack.io</id>
 		    <url>https://jitpack.io</url>
 		</repository>
-	</repositories></code>
-Then Add This Dependency
-<code><p><dependency>
+	</repositories>
+	
+	<h4>Then Add This Dependency</h4>
+	
+	<dependency>
 	    <groupId>com.github.illegalHackor</groupId>
 	    <artifactId>ZippX</artifactId>
 	    <version>-SNAPSHOT</version>
-	</dependency></p></code>
+	</dependency></code>
+
+<code></code>
