@@ -33,6 +33,7 @@ For Other IDEs you can find a way to import jar files or you can add these few l
 	    </dependency>
 
 <h2>Gradle Code</h2>
+
 ### Add the JitPack repository to your build file 
            
 	  allprojects {
