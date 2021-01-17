@@ -71,12 +71,12 @@ Now Using the Obejct of The Class you can easily use its functions.
     ...........................................................................................................
  
 ### getDirectDownloadLink(url) Usage
-    directLink=link.getDirectDownloadLink(url);
+    directLink=zippX.getDirectDownloadLink(url);
     String []urls=new String[//size here];
-    String [] links=link.getDirectDownloadLink(urls);
+    String [] links=zippX.getDirectDownloadLink(urls);
     
 ### getSizeInKilobyte(url) Usage
-    size =link.getSizeInKilobyte(url);
+    size =zippX.getSizeInKilobyte(url);
     
 ### getTitle(url) Usage
-    title=link.getTitle(url);
+    title=zippX.getTitle(url);
