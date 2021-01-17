@@ -61,7 +61,7 @@ Now Using the Obejct of The Class you can easily use its functions.
     |         Functions        |        Return Type      |                     Details                        |
     ...........................................................................................................
     | getDirectDownloadLink()  | String || String Array  | Gets The Direct Download Link By Passing an raw url|
-    |          		       |		 	 | or Passing a String array of urls                  |
+    |                          |                         | or Passing a String array of urls                  |
     ...........................................................................................................
     | getSizeInKilobyte()      | Integer || Integer Array| Gets The Size of The File by Passing the raw url   |
     |          		       |		 	 | or Passing a Sting array of urls                   |
