@@ -10,7 +10,7 @@ Its very easy to Use. Just Follow The Steps
 2.How to Use
 
 <h1>Installation</h1>
- To use it first you have to install it in your IDE. Just Download The Jar Form <a href="">Here</a>
+ To use it first you have to install it in your IDE. Just Download The Jar Form <a href="https://github.com/illegalHackor/ZippX/blob/main/ZipX/out/artifacts/ZippX_jar/ZippX.jar">Here</a>
  Then Goto your IDE (I use IntelliJ) and Find The Option to import jar. In IntelliJ you can follow this path <code>File>Project Structure>Libraries</code> Then Add The Jar file you Downloaded. You can Also use <code>ctrl+alt+shift+s</code> in IntelliJ. After Importing Click on Apply and Finish.
 
 For Other IDEs you can find a way to import jar files or you can add these few line in your Maven, Gradle Files
