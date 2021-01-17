@@ -4,6 +4,11 @@ A java Libarary to get Direct Download Links From zippyshare website (For educat
 Its a very Simple Libarary which makes you work simple and here's the documentation
 
 # Documentation
-Its very easy to Use 
+Its very easy to Use. Just Follow The Steps
+
+1.Installation
+2.How to Use
 
 <h1>Installation</h1>
+ To use it first you have to install it in your IDE. Just Download The Jar Form <a href="">Here</a>
+ Then Goto your IDE (I use IntelliJ) and Find The Option to import jar. In IntelliJ you can follow this path <code>File>Project Structure>Libraries</code> Then Add The Jar file you Downloaded
