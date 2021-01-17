@@ -66,15 +66,17 @@ Now Using the Obejct of The Class you can easily use its functions.
     | getSizeInKilobyte()      | Integer || Integer Array| Gets The Size of The File in Kilobytes by Passing  |
     |                          |                         | the raw url or Passing a Sting array of urls       |
     ...........................................................................................................
-    | getTitle()               | String || String Array  | Gets The Title of The File by Passing the raw url  |
+    | getTitle()               | String || String Array  | Gets The Name of The File by Passing the raw url   |
     |                          |                         | or Passing a Sting array of urls                   |
     ...........................................................................................................
  
 ### getDirectDownloadLink(url) Usage
     directLink=link.getDirectDownloadLink(url);
+    String []urls=new String[//size here];
+    String [] links=link.getDirectDownloadLink(urls);
     
-### getSize(url) Usage
+### getSizeInKilobyte(url) Usage
     size =link.getSizeInKilobyte(url);
     
-
- 
+### getTitle(url) Usage
+    title=link.getTitle(url);
