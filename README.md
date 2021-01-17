@@ -70,6 +70,9 @@ Now Using the Obejct of The Class you can easily use its functions.
     |                          |                         | or Passing a Sting array of urls                   |
     ...........................................................................................................
  
+<h2>ValueNotFoundException</h2>
+This exception is thrown when any value from the raw url is not found
+
 ### You can define a urls String Array and pass it
      String []urls=new String[//size here];
      
