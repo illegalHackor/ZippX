@@ -79,6 +79,7 @@ Now Using the Obejct of The Class you can easily use its functions.
     
 ### getSizeInKilobyte(url) Usage
     size =zippX.getSizeInKilobyte(url);
+    int []sizes=zippX.getSizeInKilobyte(urls);
     
 ### getTitle(url) Usage
     title=zippX.getTitle(url);
