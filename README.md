@@ -66,6 +66,6 @@ Now Using the Obejct of The Class you can easily use its functions.
     | getSizeInKilobyte()      | Integer || Integer Array| Gets The Size of The File by Passing the raw url   |
     |                          |                         | or Passing a Sting array of urls                   |
     ...........................................................................................................
-    | getTitle()               | String || String Array  | Gets The Title of The File by Passing the raw url   |
+    | getTitle()               | String || String Array  | Gets The Title of The File by Passing the raw url  |
     |                          |                         | or Passing a Sting array of urls                   |
     ...........................................................................................................
