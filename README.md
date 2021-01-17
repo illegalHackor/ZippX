@@ -52,4 +52,7 @@ For Other IDEs you can find a way to import jar files or you can add these few l
 <h1>How to Use</h1>
 
 ### First Create a Object Of The Class Like This
-    ZippX link=new ZippX();
+    ZippX zippX=new ZippX();
+ 
+Now Using the Obejct of The Class you can easily use its functions.
+
