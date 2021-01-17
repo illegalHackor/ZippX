@@ -34,4 +34,19 @@ Add This Repository First and Then Add The Dependency
 	 </dependency>
 </code>
 <br />
+<h2>Gradle Code</h2>
+<code>
+	allprojects {
+		repositories {
+			...
+			maven { url 'https://jitpack.io' }
+		}
+	}
+</code>
+
+<code>
+	dependencies {
+	        implementation 'com.github.illegalHackor:ZippX:-SNAPSHOT'
+	}
+</code>
 	 
