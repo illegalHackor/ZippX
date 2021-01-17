@@ -47,3 +47,9 @@ For Other IDEs you can find a way to import jar files or you can add these few l
             dependencies {
 	        implementation 'com.github.illegalHackor:ZippX:-SNAPSHOT'
 	}
+	
+	
+<h1>How to Use</h1>
+
+### First Create a Object Of The Class Like This
+            ZippX link=new ZippX();
