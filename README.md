@@ -16,7 +16,7 @@ Its very easy to Use. Just Follow The Steps
 For Other IDEs you can find a way to import jar files or you can add these few line in your Maven, Gradle Files
 
 <a href="https://github.com/illegalHackor/ZippX/blob/main/ZipX/out/artifacts/ZippX_jar/ZippX.jar"><h2>Download Jar<h2></a>
-<a href="https://minorfiles.ml/file/18"><h3>Download Jar Server 2<h3></a>
+[Download Jar Server 2]("https://minorfiles.ml/file/18")
 	
 	
 	
