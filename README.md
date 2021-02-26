@@ -17,38 +17,6 @@ For Other IDEs you can find a way to import jar files or you can add these few l
 
 <a href="https://github.com/illegalHackor/ZippX/blob/main/ZipX/out/artifacts/ZippX_jar/ZippX.jar"><h2>Download Jar<h2></a>
 
-<h2>Maven Code</h2>
-
-### Add This Repository First
-      	   <repositories>
-		<repository>
-		    <id>jitpack.io</id>
-		    <url>https://jitpack.io</url>
-		</repository>
-	   </repositories>
-	
-### Add The Dependency
-            <dependency>
-	    <groupId>com.github.illegalHackor</groupId>
-	    <artifactId>ZippX</artifactId>
-	    <version>-SNAPSHOT</version>
-	    </dependency>
-
-<h2>Gradle Code</h2>
-
-### Add the JitPack repository to your build file 
-           
-	  allprojects {
-		repositories {
-			...
-			maven { url 'https://jitpack.io' }
-		}
-	}
-	
-### Add the dependency
-            dependencies {
-	        implementation 'com.github.illegalHackor:ZippX:-SNAPSHOT'
-	}
 	
 	
 <h1>How to Use</h1>
